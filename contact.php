@@ -1,4 +1,4 @@
 <?php
 
-echo "Contact us NR Group Bengaluru"
+echo "Contact us NR Group Bengaluru Conatct Page"
 ?>
